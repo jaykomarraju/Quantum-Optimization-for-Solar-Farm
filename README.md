@@ -16,8 +16,7 @@ This project aims to optimize solar farm energy storage management using Qiskit 
 
 2. Clone the repository:
 
-
-git clone https://github.com/your_username/Quantum-Solar-Farm-Energy-Storage-Optimization.git
+```git clone https://github.com/your_username/Quantum-Solar-Farm-Energy-Storage-Optimization.git```
 
 3. Install additional dependencies (if any) from the requirements.txt file: ```pip install -r requirements.txt```
 
