@@ -25,4 +25,4 @@ git clone https://github.com/your_username/Quantum-Solar-Farm-Energy-Storage-Opt
 
 Modify the main.py script to adjust the problem parameters or optimization settings.
 
-Run the script: ```bashpython main.py```
+Run the script: ```python main.py```
