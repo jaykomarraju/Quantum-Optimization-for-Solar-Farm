@@ -20,11 +20,7 @@ This project aims to optimize solar farm energy storage management using Qiskit 
 
 ## Usage
 
-1. Modify the main.py script to adjust the problem parameters or optimization settings.
-
-2. Run the script: ```python main.py```
-
-3. Analyze the results and compare with existing systems.
+- The paper and relevant code is in the format of a notebook and can be found at: [Notebook](solar-farm-optimization.ipynb)
 
 ## Data
 
@@ -36,11 +32,5 @@ Place the input data files (solar irradiance, weather data, energy demand data, 
 - Create a new branch with a descriptive name.
 - Commit your changes to the new branch.
 - Submit a pull request with a clear description of the changes.
-
-## License
-
-This project is licensed under the MIT License.
-
-
 
 
